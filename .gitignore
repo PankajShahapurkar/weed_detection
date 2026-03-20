@@ -1,0 +1,22 @@
+# Dataset
+weed_dataset/
+runs/
+
+# Virtual env
+weed/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.cache
+
+# Logs
+*.log
+
+# Model weights (IMPORTANT)
+*.pt
+
+# Images (optional)
+*.png
+*.jpg
